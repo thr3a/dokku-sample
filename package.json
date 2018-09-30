@@ -1,0 +1,5 @@
+{
+  "name": "dokku-sample",
+  "private": true,
+  "dependencies": {}
+}
